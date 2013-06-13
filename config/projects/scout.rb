@@ -1,7 +1,7 @@
 
 name "scout"
 maintainer "CHANGE ME"
-homepage "CHANGEME.com"
+homepage "https://scoutapp.com"
 
 replaces        "scout"
 install_path    "/opt/scout"
