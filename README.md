@@ -33,7 +33,7 @@ You can clean up all temporary files generated during the build process with
 the `clean` command:
 
 ```shell
-$ bin/omnibus clean
+$ bin/omnibus clean scout
 ```
 
 Adding the `--purge` purge option removes __ALL__ files generated during the
@@ -41,7 +41,7 @@ build including the project install directory (`/opt/scout`) and
 the package cache directory (`/var/cache/omnibus/pkg`):
 
 ```shell
-$ bin/omnibus clean --purge
+$ bin/omnibus clean scout --purge
 ```
 
 ### Help
