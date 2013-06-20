@@ -1,7 +1,6 @@
 # scout Omnibus project
 
-This project creates full-stack platform-specific packages for
-`scout`!
+This project creates full-stack platform-specific packages for [Scout](https://scoutapp.com), a hosted server monitoring service.
 
 ## Installation
 
