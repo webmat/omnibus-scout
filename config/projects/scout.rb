@@ -1,6 +1,6 @@
 
 name "scout"
-maintainer "CHANGE ME"
+maintainer "support@scoutapp.com"
 homepage "https://scoutapp.com"
 
 replaces        "scout"
