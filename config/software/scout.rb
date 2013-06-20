@@ -1,6 +1,3 @@
-# adapted from https://github.com/opscode/omnibus-software/blob/master/config/software/redis.rb
-#
-
 name "scout"
 version "5.6.9"
 
