@@ -18,7 +18,7 @@ $ bundle install --binstubs
 You create a platform-specific package using the `build project` command:
 
 ```shell
-$ bin/omnibus build project scout
+$ omnibus build project scout
 ```
 
 The platform/architecture type of the package created will match the platform
@@ -32,7 +32,7 @@ You can clean up all temporary files generated during the build process with
 the `clean` command:
 
 ```shell
-$ bin/omnibus clean scout
+$ omnibus clean scout
 ```
 
 Adding the `--purge` purge option removes __ALL__ files generated during the
@@ -40,7 +40,7 @@ build including the project install directory (`/opt/scout`) and
 the package cache directory (`/var/cache/omnibus/pkg`):
 
 ```shell
-$ bin/omnibus clean scout --purge
+$ omnibus clean scout --purge
 ```
 
 ### Help
@@ -49,7 +49,7 @@ Full help for the Omnibus command line interface can be accessed with the
 `help` command:
 
 ```shell
-$ bin/omnibus help
+$ omnibus help
 ```
 
 ## Vagrant-based Virtualized Build Lab
