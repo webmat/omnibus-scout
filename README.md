@@ -99,3 +99,7 @@ $ vagrant up PLATFORM
 
 The complete list of valid platform names can be viewed with the
 `vagrant status` command.
+
+## Support
+
+Contact support@scoutapp.com with any issues or questions.
